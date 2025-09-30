@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thaweesha and I'm a student in software engineering from NIBM</h2>
+<h1 align="left">Hi 👋! I'm Thaweesha Perera</h1>
 
 ###
 
